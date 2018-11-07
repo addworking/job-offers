@@ -1,8 +1,10 @@
+<center><img src="http://www.addworking.com/sites/default/files/logo_addworking_2_1.png" alt="Addworking"></center>
+
 ## Sommaire
 
-+ [Développeur Laravel](#developpeur-laravel)
-+ [Lead-dev Laravel](#lead-dev-laravel)
-+ [Product-owner](#product-owner)
++ [Développeur Laravel](#un-développeur-laravel)
++ [Lead-dev Laravel](#un-lead-dev-laravel)
++ [Product-owner](#un-product-owner)
 
 ## Un projet Laravel 5.7 multi-tenant multi-composants a besoin de toi !
 
