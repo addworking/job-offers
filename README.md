@@ -1,25 +1,27 @@
-<center><img src="http://www.addworking.com/sites/default/files/logo_addworking_2_1.png" alt="Addworking"></center>
+<img src="http://www.addworking.com/sites/default/files/logo_addworking_2_1.png" alt="Addworking" align="center">
 
 ## Sommaire
+
+Postes à pourvoir:
 
 + [Développeur Laravel](#un-développeur-laravel)
 + [Lead-dev Laravel](#un-lead-dev-laravel)
 + [Product-owner](#un-product-owner)
 
-## Un projet Laravel 5.7 multi-tenant multi-composants a besoin de toi !
+## Un projet Laravel 5.7 *multi-tenant & multi-composants* a besoin de toi !
 
-On est une jeune startup - on a commencé à coder le site il y a tout juste un an - et on est déjà en train de consolider la codebase. En un an, en plus de la découverte de notre marché et de notre business, on a mis en place:
+On est une **jeune startup** - on a commencé à coder le site il y a tout juste un an - et **on est déjà en train de consolider la codebase**. En un an, en plus de la découverte de notre marché et de notre business, on a mis en place:
 
-+ Un pipeline GitHub > Heroku avec review apps & intégration continue
-+ Une gestion de projets fluide & efficace sur GitHub projects backée par une automatisation des review apps avec CodeClimate
-+ Notre propre repo privé & sécurisé Satis pour Composer pour hoster nos packages, certains seront prochainement ouverts
-+ Une base de données entièrement portable (SQLite en local, PostgreSQL en production), correctement normalisée avec des clés primaires UUID
++ Un **pipeline GitHub > Heroku** avec **review apps** & **intégration continue**
++ Une gestion de projets fluide & efficace sur GitHub projects backée par une **automatisation** des review apps avec **CodeClimate**
++ Notre propre **repo privé** & sécurisé Satis pour **Composer** pour hoster nos packages, certains seront prochainement **open-source**
++ Une **base de données entièrement portable** (SQLite en local, **PostgreSQL** en production), **correctement normalisée** avec des clés primaires UUID
 
-On a tous les feux au vert pour un développement rapide, maîtrisé, et stable dans le temps.
+On a tous les feux au vert pour un développement rapide, maîtrisé, et stable dans le temps :+1:
 
-Si tu en as marre de te battre pour faire du beau code, de négocier les délais toute la journée et trop souvent devoir t'asseoir sur la qualité, de faire et refaire les mêmes solution parce que tu n'as pas le temps de fiabiliser tes composants, sache que j'étais comme toi ! J'ai vu et apris ce qu'il faut pas faire. Maintenant que j'en ai l'opportunité, je monte une équipe de radicaux pour faire du soft de qualité dans les meilleures conditions possibles, et j'ai besoin de bras !
+Si tu en as marre de te battre pour faire du beau code, de négocier les délais toute la journée et trop souvent devoir t'asseoir sur la qualité, de faire et refaire les mêmes solution parce que tu n'as pas le temps de fiabiliser tes composants, sache que j'étais comme toi ! J'ai vu et apris ce qu'il faut pas faire. Maintenant que j'en ai l'opportunité, je monte une équipe de radicaux pour faire du soft de qualité dans les meilleures conditions possibles, **et j'ai besoin de bras !**
 
-Rejoins nous !
+<div align="center"><a href="mailto:benjamin@addworking.com" align="center"><b>Rejoins nous !</b></a></div>
 
 <p align="right"><a href="#sommaire">Sommaire</a> &#187; Un projet Laravel 5.7 multi-tenant multi-composants a besoin de toi !</p>
 
