@@ -21,7 +21,7 @@ On a tous les feux au vert pour un développement rapide, maîtrisé, et stable 
 
 Si tu en as marre de te battre pour faire du beau code, de négocier les délais toute la journée et trop souvent devoir t'asseoir sur la qualité, de faire et refaire les mêmes solution parce que tu n'as pas le temps de fiabiliser tes composants, sache que j'étais comme toi ! J'ai vu et apris ce qu'il faut pas faire. Maintenant que j'en ai l'opportunité, je monte une équipe de radicaux pour faire du soft de qualité dans les meilleures conditions possibles, **et j'ai besoin de bras !**
 
-<div align="center"><a href="mailto:benjamin@addworking.com" align="center"><h2>Rejoins nous !</h2></a></div>
+<div align="center"><a href="mailto:benjamin@addworking.com" align="center"><b>Rejoins nous !</b></a></div>
 
 ---
 
