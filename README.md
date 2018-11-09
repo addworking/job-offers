@@ -10,7 +10,7 @@ Postes à pourvoir:
 
 ## Un projet Laravel 5.7 *multi-tenant & multi-composants* a besoin de toi !
 
-On est une **jeune startup** - on a commencé à coder le site il y a tout juste un an - et **on est déjà en train de consolider la codebase**. En un an, en plus de la découverte de notre marché et de notre business, on a mis en place:
+On est une **jeune startup** parisienne - on a commencé à coder le site il y a tout juste un an - et **on est déjà en train de consolider la codebase**. En un an, en plus de la découverte de notre marché et de notre business, on a mis en place:
 
 + Un **pipeline GitHub > Heroku** avec **review apps** & **intégration continue**
 + Une gestion de projets fluide & efficace sur GitHub projects backée par une **automatisation** des review apps avec **CodeClimate**
