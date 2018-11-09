@@ -1,4 +1,4 @@
-<img src="http://www.addworking.com/sites/default/files/logo_addworking_2_1.png" alt="Addworking" align="center">
+<div align="center"><img src="http://www.addworking.com/sites/default/files/logo_addworking_2_1.png" alt="Addworking"></div>
 
 ## Sommaire
 
@@ -21,9 +21,7 @@ On a tous les feux au vert pour un développement rapide, maîtrisé, et stable 
 
 Si tu en as marre de te battre pour faire du beau code, de négocier les délais toute la journée et trop souvent devoir t'asseoir sur la qualité, de faire et refaire les mêmes solution parce que tu n'as pas le temps de fiabiliser tes composants, sache que j'étais comme toi ! J'ai vu et apris ce qu'il faut pas faire. Maintenant que j'en ai l'opportunité, je monte une équipe de radicaux pour faire du soft de qualité dans les meilleures conditions possibles, **et j'ai besoin de bras !**
 
-<div align="center"><a href="mailto:benjamin@addworking.com" align="center"><b>Rejoins nous !</b></a></div>
-
-<p align="right"><a href="#sommaire">Sommaire</a> &#187; Un projet Laravel 5.7 multi-tenant multi-composants a besoin de toi !</p>
+<div align="center"><a href="mailto:benjamin@addworking.com" align="center"><h2>Rejoins nous !</h2></a></div>
 
 ---
 
